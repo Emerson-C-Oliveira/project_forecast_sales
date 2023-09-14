@@ -165,3 +165,8 @@ cython_debug/
 pyvenv.cfg
 share/
 Scripts/
+storytelling_projeto_rossmann.html
+storytelling_projeto_rossmann.ipynb
+Explanation of each step - Rossmann.docx
+Modelo de Previsão - Rossmann.docx
+/rossmann_telegram_api/
