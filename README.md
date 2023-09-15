@@ -46,9 +46,11 @@ Sales grow more the shorter the distance to a competitor.
 
 ![salesByCompetitionDistance](img/sales_by_competition_distance.png)
 
-Sales grow more to store types "A" and "D". /n
-Sales grow more in public Holidays. /n
-Sales grow more to smaller assortment. /n
+Sales grow more to store types "A" and "D".
+
+Sales grow more in public Holidays.
+
+Sales grow more to smaller assortment.
 
 ![sales](img/sales_by_store_type_hollidays.png)
 
