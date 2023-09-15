@@ -84,6 +84,21 @@ In test data, I calcuted the prediction and comparision with the worst and bette
 1. **Start a conversation:** Open the Telegram app and start a conversation with the bot [telegram bot](https://t.me/prediction_rossmann_bot).
 2. **Digital Commands:** Send the store number, in the range of 1 to 1115 and he will answer you the sales forecast.
 
+## Next Steps:
+Next steps include:
++ Continuous monitoring of the model in production.
++ Collection of model usage data for analysis.
++ Regularly evaluate performance and adjust as necessary.
++ Exploration of model optimization opportunities such as:
+    - Development of specific models for stores with lower performance.
+    - Exploration of additional data and resources to improve forecast accuracy.
+    - Continuous refinement of models and adjustments of hyper parameters.
+    - Implementation of refined models in production to improve inventory management and operational efficiency.
+    - Creation of a new variable to answer the question: Stores with more days on sale should sell more.
+- Scalability consideration to handle an increase in request volume.
+
+Successful deployment of the model is an important milestone, but ongoing maintenance and improvement are essential to ensure the model continues to be a valuable tool for the company.
+
 ## Who i am
 
 My name is Emerson Carlos de Oliveira, I am a lawyer, a software engineering student, and I am a Data Scientist in training.
