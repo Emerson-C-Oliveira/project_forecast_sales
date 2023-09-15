@@ -82,8 +82,7 @@ In test data, I calcuted the prediction and comparision with the worst and bette
 ## Basic Usage:
 
 1. **Start a conversation:** Open the Telegram app and start a conversation with the bot [telegram bot](https://t.me/prediction_rossmann_bot).
-2. **Digital Commands:** Use specific commands, such as `/prevert` accompanied by the store number and desired data, to optimize sales.
-3. **Explore Information:** In addition to specifics, you can explore planned information about stores using commands like `/info`.
+2. **Digital Commands:** Send the store number, in the range of 1 to 1115 and he will answer you the sales forecast.
 
 # Who i am
 
