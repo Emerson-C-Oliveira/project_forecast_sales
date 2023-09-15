@@ -2,12 +2,12 @@
 
 ![Sales Forescast](img/salesForescast-header.png)
 
-# Business Problem
+## Business Problem
 
 The business problem at Rossmann is the need to accurately forecast the daily sales of each of the more than 3,000 stores over the next 42 days. This is crucial to determine the investment needed in store renovations to improve operational efficiency and boost sales. The CFO is responsible for making informed decisions based on these forecasts. The problem involves data analysis, seasonality and other complex factors that affect sales. Potential methods include time series and regression, and the desired solution is a sales forecasting model accessible through an app. Prediction accuracy is critical to project success.
 And this project aims to analyze and model retail store sales data using various data science techniques and machine learning algorithms. The dataset includes information about different stores and their daily sales performance over a certain period.
 
-# The Solution Strategy
+## The Solution Strategy
 
 Develop a machine learning model that predicts the sales forecast with a margin of error of no more than 10%.
 
@@ -34,12 +34,12 @@ Develop a machine learning model that predicts the sales forecast with a margin 
 **Step 11. DEPLOY MODEL TO PRODUCTION** : Deploying the machine learning model in a production environment, where it can be accessed by other people, systems, and applications.
 
 
-# The Dataset
+## The Dataset
 
 The dataset is available on kaggle plataform (https://www.kaggle.com/c/rossmann-store-sales/data).
 
 
-# Top Data Insights 
+## Top Data Insights 
 
 
 Sales grow more the shorter the distance to a competitor. 
@@ -84,7 +84,7 @@ In test data, I calcuted the prediction and comparision with the worst and bette
 1. **Start a conversation:** Open the Telegram app and start a conversation with the bot [telegram bot](https://t.me/prediction_rossmann_bot).
 2. **Digital Commands:** Send the store number, in the range of 1 to 1115 and he will answer you the sales forecast.
 
-# Who i am
+## Who i am
 
 My name is Emerson Carlos de Oliveira, I am a lawyer, a software engineering student, and I am a Data Scientist in training.
 
