@@ -84,7 +84,7 @@ In test data, I calcuted the prediction and comparision with the worst and bette
 1. **Start a conversation:** Open the Telegram app and start a conversation with the bot [telegram bot](https://t.me/prediction_rossmann_bot).
 2. **Digital Commands:** Send the store number, in the range of 1 to 1115 and he will answer you the sales forecast.
 
-![Telegram bot Forescast](img/rossmann.png)
+![Telegram bot Forescast](img/rossmann.jpg)
 
 ## Next Steps:
 Next steps include:
