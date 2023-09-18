@@ -1,6 +1,6 @@
 # The Rossmann Sales Forecast
 
-![Sales Forescast](img/.png)
+![Sales Forescast](img/salesForescast-header.jpg)
 
 ## Business Problem
 
