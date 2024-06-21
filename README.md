@@ -1,6 +1,6 @@
 # The Rossmann Sales Forecast
 
-![Sales Forescast](img/previsaodevendas.jpg)
+<img src="img/previsaodevendas.jpg" alt="Capa do Projeto" width="1069" height="700">
 
 ## Business Problem
 
